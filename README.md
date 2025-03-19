@@ -185,9 +185,18 @@ The inspector will show the tools and resources available in your MCP server and
 
 ---
 
-## Step 9: MCP Cursor Client
 
-The **Cursor Client** lets you interact with MCP servers via the command line. Press `Ctrl + Shift + P` in your IDE or terminal and search for **MCP Servers**. Once you have added your server, you can start typing queries to interact with the resources and tools exposed by the server.
+### Step 9: MCP Cursor Client
+
+The **Cursor Client** lets you interact with MCP servers via the command line. To use the **Cursor IDE**, follow these steps:
+
+1. **Download and Install Cursor IDE** from the official website:  
+   [Download Cursor IDE](https://www.cursor.com/)
+
+2. After installing Cursor, press `Ctrl + Shift + P` in your IDE or terminal and search for **MCP Servers**.
+
+3. Once you've added your server, you can start typing queries to interact with the resources and tools exposed by the server.
+
 
 ---
 
