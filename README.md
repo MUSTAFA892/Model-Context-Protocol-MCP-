@@ -18,6 +18,11 @@ This guide walks you through the setup process for an MCP server, including envi
 
 ---
 
+### Example Image of MCP Server Configuration:
+
+![MCP Server Configuration](https://github.com/alejandro-ao/mcp-server-example/blob/master/img/mcp-diagram-bg.png)
+
+
 ## Prerequisites
 
 Before setting up the MCP server, make sure you have the following:
@@ -342,11 +347,6 @@ With MCP, you can create interactive, scalable applications that can be easily i
 
 This project is licensed under the MIT License.
 
----
-
-### Example Image of MCP Server Configuration:
-
-![MCP Server Configuration](https://github.com/alejandro-ao/mcp-server-example/blob/master/img/mcp-diagram-bg.png)
 
 ---
 
